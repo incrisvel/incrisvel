@@ -11,7 +11,7 @@
 
   <div>
   	<!-- Most Used Languages -->
-  	<img align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=incrisvel&langs_count=5&bg_color=0D1117&title_color=DA0C81&count_private=true&hide_border=true&include_all_commits=true"/>
+  	<img align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=incrisvel&langs_count=5&bg_color=0D1117&title_color=DA0C81&hide_border=true&include_all_commits=true"/>
   	<!-- Stats -->
-  	<img align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=incrisvel&bg_color=0D1117&title_color=DA0C81&count_private=true&hide_border=true&include_all_commits=true"/>
+  	<img align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=incrisvel&bg_color=0D1117&title_color=DA0C81&hide_border=true&include_all_commits=true"/>
   </div>
